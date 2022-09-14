@@ -18,8 +18,8 @@
 }
 
 ::selection {
-  background: var(--primary-color);
-  color: var(--hover-color);
+  background: var(--hover-color);
+  color: var(--bg-0);
 }
 
 p {
@@ -46,8 +46,8 @@ a {
 }
 
 a:hover {
-  background-color: var(--primary-color);
-  color: var(--hover-color);
+  background-color: var(--text-0);
+  color: var(--bg-0);
 }
 
 time {
