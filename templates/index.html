@@ -1,1 +1,49 @@
-{% extends "posts.html" %}
+{% extends "base.html" %}
+
+{% block main_content %}
+
+<h1>Stop extraction of fossil fuels!</h1>
+
+<p>
+To the students, staff and the rest of the world DTU pretends to fight the climate crisis. But with their research, they help the exact same companies that are causing the crisis.
+We want an end to the destruction of nature and communities world wide, and a university we can be proud of. These projects must stop now.
+</p>
+
+<p>> > <a href="https://www.facebook.com/divestdtu"><b>Join the campaign</b></a> < <</p>
+
+<p>
+If you need a brush up on the state of the climate breakdown, the <a href="https://www.climaterealitycheck.net/">Climate Reality Check</a> is an excellent resource
+</p>
+
+<p>All posts can be found in <a href="{{'/posts/'}}">the archive</a>.</p>
+
+<p>Smaller news items are only posted on our <a href="https://facebook.com/DivestDTU/">facebook page</a>.</p>
+
+<h1>Recent posts</h1>
+    <main class="list">
+        {%- if paginator %}
+            {%- set show_pages = paginator.pages -%}
+        {% else %}
+            {% set section = get_section(path="posts/_index.md") %}
+            {%- set show_pages = section.pages -%}
+        {% endif -%}
+
+        {{ post_macros::list_posts(pages=show_pages) }}
+    </main>
+
+    {% if paginator %}
+        <ul class="pagination">
+            {% if paginator.previous %}
+                <span class="page-item page-prev">
+                    <a href={{ paginator.previous }} class="page-link" aria-label="Previous"><span aria-hidden="true">← Prev</span></a>
+                </span>
+            {% endif %}
+
+            {% if paginator.next %}
+                <span class="page-item page-next">
+                    <a href={{ paginator.next }} class="page-link" aria-label="Next"><span aria-hidden="true">Next →</span></a>
+                </span>
+            {% endif %}
+        </ul>
+    {% endif %}
+{% endblock main_content %}
