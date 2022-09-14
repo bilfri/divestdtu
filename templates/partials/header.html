@@ -22,25 +22,7 @@
         <link rel="icon" type="image/png" href={{ config.extra.favicon }} />
     {% endif %}
 
-    {# Font from cdn or disk #}
-    {% if config.extra.use_cdn | default(value=false) %}
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jetbrains-mono@1.0.6/css/jetbrains-mono.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/space-grotesk@4.5.8/index.min.css">
-    {% else %}
-        <link href={{ get_url(path="fonts.css") }} rel="stylesheet" />
-    {% endif %}
-
-    {# Analytics #}
-    {% if config.extra.analytics.enabled and config.extra.analytics.goatcounter_user %}
-        {% set user = config.extra.analytics.goatcounter_user %}
-        {% set host = config.extra.analytics.goatcounter_host | default(value="goatcounter.com") %}
-
-        <script data-goatcounter="https://{{ user }}.{{ host }}/count" async src="{{ get_url(path="js/count.js") }}"></script>
-        <noscript>
-            {# EasyList blocks '.com/count?', so we have to use '.com//count' #}
-            <img src="https://{{ user }}.{{ host }}//count?p={{ current_path }}&t={{ page.title | default(value=config.title) }}">
-        </noscript>
-    {% endif %}
+    <link href={{ get_url(path="fonts.css") }} rel="stylesheet" />
 
     {# RSS #}
     <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
