@@ -1,6 +1,7 @@
 ---
 title: Call for protest!
 description: Divest DTU protest on 2022-04-27 at 12:00 in front of 101 main entrance
+date: "2022-03-15"
 ---
 
 DTU is funding fossil fuels!
