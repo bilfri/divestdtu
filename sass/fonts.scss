@@ -13,3 +13,94 @@
   src: url('../fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf'), local('ttf');
   font-display: swap;
 }
+
+/* Le Murmure */
+
+@font-face {
+  font-family: 'DD Le Murmure';
+  src: url('/fonts/LeMurmureWoff2/LeMurmure-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fivo Sans Modern */
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-MediumOblique.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-Heavy.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-HeavyOblique.woff2') format('woff2');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-ExtBlkObliq.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-BoldOblique.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/fonts/FivoWoff2/FivoSansModern-ExtraBlack.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DD Fivo Sans Modern';
+  src: url('/_includes/FivoWoff2/FivoSansModern-Oblique.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
