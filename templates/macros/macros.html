@@ -14,7 +14,7 @@
                     <span class="draft-label">DRAFT</span> 
                 {% endif %}
             </div>
-            <div class="description">
+            <p class="description" style="display:inline">
                 {% if page.description %}
                     {{ page.description }}
                 {% elif page.summary %}
@@ -22,10 +22,10 @@
                 {% else %}
                     {% set hide_read_more = true %}
                 {% endif %}
-            </div>
-
+            </p>
             {% if not hide_read_more %}
-                <a class="readmore" href={{ page.permalink }}>Read more ⟶</a>
+                <d> </d>
+                <a class="readmore" href={{ page.permalink }}>Read&nbsp;more&nbsp;⟶</a>
             {% endif %}
         </section>
 
