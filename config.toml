@@ -26,7 +26,3 @@ socials = [
     { name = "github", url = "https=//github.com/not-matthias/", icon = "github" },
 ]
 
-custom_css = []
-
-[extra.analytics]
-enabled = false
