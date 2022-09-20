@@ -6,6 +6,8 @@ date: 2022-09-14
 
 To: Anders Bjarklev
 
+Subject: Stop being complicit in climate collapse.
+
 Please stop taking bribes from fossil fuel companies.
 
 Best,
