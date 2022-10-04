@@ -4,7 +4,7 @@ description: Email template for telling the principal of DTU to stop accepting m
 date: 2022-09-14
 ---
 
-To: Anders Bjarklev
+To: Anders Bjarklev (DTU-rektor@adm.dtu.dk)
 
 Subject: Stop being complicit in climate collapse.
 
