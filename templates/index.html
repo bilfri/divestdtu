@@ -2,23 +2,9 @@
 
 {% block main_content %}
 
-<h1>Stop extraction of fossil fuels!</h1>
+<h1 class="title">{{ section.title }}</h1>
 
-<p>
-To the students, staff and the rest of the world DTU pretends to fight the climate crisis. But with their research, they help the exact same companies that are causing the crisis.
-We want an end to the destruction of nature and communities world wide, and a university we can be proud of. These projects must stop now.
-</p>
-
-<p style="text-align:center">&#9758; <a href="https://signal.group/#CjQKIOrn13DtX0M51TOqd5aqboBWgaCOuuKowV0Uut4wjagnEhABz0XqVkaxjKiOO8n5smuC"><b>Join the campaign</b></a> &#9756;</p>
-
-<p>
-If you need a brush up on the state of the climate breakdown, have a look at the excellent Climate Reality Check by David Spratt et al.:</p>
-<p style="text-align:center">&#128128; <a href="https://www.climaterealitycheck.net/"><b>Climate&nbsp;Reality&nbsp;Check</b></a> &#128128;</p>
-
-
-<p>All posts can be found in <a href="{{'/posts/'}}">the archive</a>.</p>
-
-<p>Smaller news items are only posted on our <a href="https://facebook.com/DivestDTU/">facebook page</a>.</p>
+{{ section.content | safe }}
 
 <hr>
 

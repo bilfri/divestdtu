@@ -54,6 +54,24 @@ time {
   color: grey;
 }
 
+/* div around button to center it */
+.button-div {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: var(--bg-0);
+  font-family: var(--text-font);
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 3px;
+  border: 1.5px dashed var(--hover-color);
+  color: var(--text-0);
+  padding: 10px 10px;
+  margin: 4px 2px;
+}
+
 /* Remove post list padding */
 @media screen and (max-width: 600px) {
   .list>ul {
