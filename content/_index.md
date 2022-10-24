@@ -5,7 +5,7 @@ title = "DTU must stop taking fossil fuel money!"
 +++
 
 To the students, staff and the rest of the world DTU pretends to fight the climate crisis. But at same time the university accepts orders from the fossil fuel industry. 
-We want an end to the destruction of nature and communities world wide, and a university we can be proud of. These projects must stop now.
+We want an end to the destruction of nature and communities world wide, and a university we can be proud of. DTU must stop taking money from Big Oil.
 
 {{ button(text="☞ Join the campaign ☜", link="https://signal.group/#CjQKIOrn13DtX0M51TOqd5aqboBWgaCOuuKowV0Uut4wjagnEhABz0XqVkaxjKiOO8n5smuC")}}
 
