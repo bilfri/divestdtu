@@ -20,4 +20,5 @@ According to the IPCC report, one of the five key measures to achieve the goal o
 In an open letter from earlier this year 500 academics from the US and the UK called on university leaders to reject all funding from fossil fuel companies. Likewise, we are now calling on you to reconsider DTUs involvement with fossil fuel extraction. We are tired of seeing large banners around campus that promote DTUs sustainable initiatives, while DTU at the same time refuses to take the responsibility that follows as a leading technical university. Therefore, we urge you to restore the integrity of the institution by rejecting funding from the fossil fuel industry.
 
 Best regards,
+
 Davide Dolente, Lukas Kluge and the rest of Divest DTU
