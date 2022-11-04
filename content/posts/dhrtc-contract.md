@@ -4,8 +4,7 @@ description: The contract governing the funding and research activities at DTU O
 date: 2022-06-12
 ---
 
-We are publishing the contract governing the funding and research activities at DTU Offshore. It used to be freely available on their website, but isn't anymore, which is why we publish it here
-
+We are publishing the contract governing the funding and research activities at DTU Offshore. It used to be freely available on their website, but isn't anymore, which is why we publish it here:
 
 Main contract: [**dhrtc-contract.pdf**](/docs/dhrtc-contract.pdf)
 Scientific framework: [**dhrtc-scientific-framework.pdf**](/docs/dhrtc-contract.pdf)
