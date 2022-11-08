@@ -1,5 +1,5 @@
 +++
-title = "About Dtu Offshore"
+title = "About DTU Offshore"
 date = "2022-11-08"
 +++
 
