@@ -3,9 +3,9 @@ title = "Answer from the president"
 date = 2022-11-14
 +++
 
-Divest DTU has received an answer on our [letter to the President of DTU](posts/letter-to-the-president):
+Divest DTU has received an answer on our [letter to the President of DTU](/posts/letter-to-the-president):
 
-Dear Davide Dolente and Divest DTU
+Dear Davide Dolente and Divest DTU,
 
 Thank you for your letter. I appreciate you actively participating in our university and making your voice heard.
 
