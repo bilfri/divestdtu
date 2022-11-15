@@ -1,6 +1,6 @@
 +++
 title = "About DTU Offshore"
-description = What DTU Offshore does and how it is financed
+description = "What DTU Offshore does and how it is financed"
 date = "2022-11-08"
 +++
 
@@ -23,6 +23,8 @@ The aim of the partnership is stated multiple times throughout the text, such as
 - Section 4.2: “Enhanced oil & gas recovery processes and concepts”
 
 - Section 10.2: “A workgroup shall be established ("Technology Application Workgroup") that shall supervise that all Projects have […] a clear line of sight to increased oil and gas recovery/production”
+
+The funding is regulated in Section 18.1: "DUC will grant DKK 1 billion in funding to the establishment and operation of the Centre", where DUC is the Dansk Undergrunds Consortium (Danish Underground Consortium), consisting of the previously mentioned companies.
 
 We are against this collaboration which results in greater amounts of oil and gas being extracted from the ground. We draw on a letter signed by 500 academics in March 2022 (find the letter [**here**](https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics)) urging universities to reject fossil fuel money for research, even if the research is aimed at developing green and low-carbon technology. Accepting this money represents “an inherent conflict of interest” and could “taint” essential research and “compromise” academic freedom. For the companies, it is a chance to “greenwash” their reputations and skew the findings of research in a way favorable to them.
 
