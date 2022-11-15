@@ -1,8 +1,8 @@
-+++
+---
 title = "Answer from the president"
 description = "Answer from Anders Bjarklev and comments by Divest DTU"
 date = 2022-11-14
-+++
+---
 
 Divest DTU has received an answer on our [letter to the President of DTU](/posts/letter-to-the-president). Here is the answer, and below, some of our comments to it:
 
