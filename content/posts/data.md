@@ -1,8 +1,8 @@
-+++
+---
 title = "About DTU Offshore"
 description = "What DTU Offshore does and how it is financed"
 date = "2022-11-08"
-+++
+---
 
 ## DTU Offshore Contract
 
