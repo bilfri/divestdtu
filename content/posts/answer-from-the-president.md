@@ -1,9 +1,10 @@
 +++
 title = "Answer from the president"
+description = "Answer from Anders Bjarklev and comments by Divest DTU"
 date = 2022-11-14
 +++
 
-Divest DTU has received an answer on our [letter to the President of DTU](/posts/letter-to-the-president):
+Divest DTU has received an answer on our [letter to the President of DTU](/posts/letter-to-the-president). Here is the answer, and below, some of our comments to it:
 
 Dear Davide Dolente and Divest DTU,
 
@@ -22,3 +23,15 @@ We evaluate our partners on the scientific merit and aim of our collaboration, a
 Best regards,
 
 Anders Bjarklev
+
+* * * 
+
+We are disappointed to hear the “rubber tire, plastics, paint” argument to justify oil extraction. The share of oil usage for plastics versus combustion is entirely unbalanced, with fossil fuel resources for plastics constituting [**only 4-6%**](https://www.bpf.co.uk/press/Oil_Consumption.aspx) of total fossil fuel usage.
+
+In our letter we do not ask DTU to “shut down oil and gas extraction from one day to the next.” Rather, our request is that DTU does not renew its contract with TotalEnergies.
+
+The “substantial societal task”, we believe, is to ensure a livable future for coming generations, in Denmark and worldwide. This implies of course massive fossil fuel reduction.
+
+To achieve this transition, it is necessary to work with companies that are on the right track to reduce emissions and invest in renewables. TotalEnergies is not one of those. Oil and gas companies have long denied and downplayed the very existence of climate change. They have actively lobbied against climate action, and for softer regulations – this is surely not the kind of company we need in the green transition. They have everything to gain by continuing to burn oil and gas.
+
+The world can, in fact, reach net zero without everybody´s active contribution – if that contribution is towards more fossil fuel extraction.
