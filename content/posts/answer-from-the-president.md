@@ -1,7 +1,7 @@
 ---
-title = "Answer from the president"
-description = "Answer from Anders Bjarklev and comments by Divest DTU."
-date = 2022-11-14
+title: "Answer from the president"
+description: "Answer from Anders Bjarklev and comments by Divest DTU."
+date: 2022-11-14
 ---
 
 Divest DTU has received an answer on our [letter to the President of DTU](/posts/letter-to-the-president). Here is the answer, and below, some of our comments to it:
@@ -25,7 +25,7 @@ Best regards,
 Anders Bjarklev
 
 
-Our comments:
+## Our comments:
 
 We are disappointed to hear the “rubber tire, plastics, paint” argument to justify oil extraction. The share of oil usage for plastics versus combustion is entirely unbalanced, with fossil fuel resources for plastics constituting [**only 4-6%**](https://www.bpf.co.uk/press/Oil_Consumption.aspx) of total fossil fuel usage.
 
