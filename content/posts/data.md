@@ -28,6 +28,24 @@ The funding is regulated in Section 18.1: "DUC will grant DKK 1 billion in fundi
 
 We are against this collaboration which results in greater amounts of oil and gas being extracted from the ground. We draw on a letter signed by 500 academics in March 2022 (find the letter [**here**](https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics)) urging universities to reject fossil fuel money for research, even if the research is aimed at developing green and low-carbon technology. Accepting this money represents “an inherent conflict of interest” and could “taint” essential research and “compromise” academic freedom. For the companies, it is a chance to “greenwash” their reputations and skew the findings of research in a way favorable to them.
 
+## DTU Offshore Scientific Framework
+
+Research at DTU Offshore (previously “Danish Hydrocarbon Research and Technology Centre,” DHRTC) takes place within four core scientific themes, which are:
+1. Reservoir characterization
+1. Enhanced Oil & Gas Recovery Processes
+3. Drilling & Production Technology Concepts
+4. Production Facilities, Material Research & Design
+ 
+These themes are elaborated in greater detail in the [scientific framework]( /docs/dhrtc-scientific-framework.pdf) guiding the research carried out at DTU Offshore. Particularly interesting is Theme 2, which focuses on the introduction of new concepts to increase the amount of hydrocarbons extracted from reservoirs. 
+
+Other highlights from the document:
+
+“Research activities at the Danish Hydrocarbon Research and Technology Centre (…) have direct influence on hydrocarbon recovery efficiency and associated cost and therefore also on the total amount of oil and gas which can be produced from the existing fields and discoveries in the Danish North Sea.” (page 1)
+
+“all financed projects must have the potential to improve current concepts and practices in field development and operations in the Danish North Sea, leading to improved oil or gas recovery from existing fields or unlock hydrocarbon bearing intervals” (page 1)
+
+“Research activities at DHRTC can focus on both IOR [Improved Oil Recovery] and EOR [Enhanced Oil Recovery] relevant topics, which potentially can deliver economically attractive incremental reserves with an overall neutral or improved environmental footprint for the asset” (page 4)
+
 ## TotalEnergies
 
 DTU is collaborating with a company that is going to increase its oil and gas production by 18.4% from 2020 to 2030 – even though production should be scaled down by 38% to comply with the IEA´s Net Zero scenario. This is according to [**Reclaim Finance´s report**](https://reclaimfinance.org/site/wp-content/uploads/2022/03/TotalEnergies-company-briefing-March-2022.pdf) from March 2022. Investments in renewables are not nearly high enough, and in 2030 up to 85% of TotalEnergies energy mix will be coming from fossil fuels. This means, TotalEnergies will be producing five to six times more fossil fuels than renewables.
