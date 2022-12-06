@@ -42,7 +42,7 @@ Other highlights from the document:
 
 “Research activities at the Danish Hydrocarbon Research and Technology Centre (…) have direct influence on hydrocarbon recovery efficiency and associated cost and therefore also on the total amount of oil and gas which can be produced from the existing fields and discoveries in the Danish North Sea.” (page 1)
 
-“all financed projects must have the potential to improve current concepts and practices in field development and operations in the Danish North Sea, leading to improved oil or gas recovery from existing fields or unlock hydrocarbon bearing intervals” (page 1)
+“All financed projects must have the potential to improve current concepts and practices in field development and operations in the Danish North Sea, leading to improved oil or gas recovery from existing fields or unlock hydrocarbon bearing intervals” (page 1)
 
 “Research activities at DHRTC can focus on both IOR [Improved Oil Recovery] and EOR [Enhanced Oil Recovery] relevant topics, which potentially can deliver economically attractive incremental reserves with an overall neutral or improved environmental footprint for the asset” (page 4)
 
