@@ -10,9 +10,10 @@ Just as the tobacco industry can't be trusted to end lung cancer, the fossil ind
 
 Only when DTU is freed from the financial ties with Big Oil can the crisis be addressed honestly. We have a plan to restore the integrity of DTU and stop the cause of the climate crisis right where we work and study.
 
-Join our group chat to learn more about the group and get involved. All welcome:
+## Join the struggle
+Divest DTU organises protest actions, campaigning and participates in climate events off campus. We frequently have dinner and lunch together and do everything with a healthy amout of humour. Join our group chat to learn more about the group and get involved. All welcome:
 
-{{ button(text="☞ Group chat ☜", link="https://signal.group/#CjQKIOrn13DtX0M51TOqd5aqboBWgaCOuuKowV0Uut4wjagnEhABz0XqVkaxjKiOO8n5smuC")}}
+{{ button(text="☞ Group chat ☜", link="/group-chat")}}
 
 *Further Reading:*
 
