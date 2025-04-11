@@ -1,4 +1,4 @@
-base_url = "https://divestdtu.dk"
+base_url = "https://divestdtu.lukaskluge.dk"
 title = "Divest DTU"
 build_search_index = true
 generate_feed = true
